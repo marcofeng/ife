@@ -1,0 +1,25 @@
+h1
+{
+	color: blue;
+}
+
+h2
+{
+	font-size: 14px;
+}
+
+p
+{
+	font-size: 12px;
+	color: yellow;
+	background-color: black;
+}
+
+img
+{
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+}
+
+
